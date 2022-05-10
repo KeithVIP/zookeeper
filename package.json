@@ -1,0 +1,23 @@
+{
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeithVIP/zookeeper.git"
+  },
+  "author": "Keith Yanosy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeithVIP/zookeeper/issues"
+  },
+  "homepage": "https://github.com/KeithVIP/zookeeper#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
